@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+#Twilio settings
+TWILIO_ACCOUNT_SID = 'AC547e90ee77053156a4727ca6d0b1b74a'
+TWILIO_AUTH_TOKEN = '73528a9e06b2e6c378af0e9cc716a5de'
 
 # Application definition
 
